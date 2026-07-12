@@ -4,7 +4,7 @@
 
 15-year-old student from the philippines, currently building a startup.
 
-i enjoy building software, automating repetitive work, and creating systems that help businesses spend less time on manual tasks.
+i enjoy building things, automating repetitive work, and creating systems that help businesses spend less time on manual tasks.
 
 <br>
 
