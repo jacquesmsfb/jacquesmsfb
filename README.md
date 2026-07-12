@@ -2,7 +2,7 @@
 
 # hi, i'm jacques.
 
-15-year-old student from the philippines, currently building my startup.
+15-year-old student from the philippines, currently building a startup.
 
 i enjoy building software, automating repetitive work, and creating systems that help businesses spend less time on manual tasks.
 
